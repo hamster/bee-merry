@@ -1,8 +1,12 @@
 # Bee Merry Build Instructions
 
-![OiesyBees](images/OiseyBeesLogo.png)![Oiser](images/Oiser.jpg)
+![OiesyBees](images/OiseyBeesLogo.png) ![Oiser](images/Oiser.jpg)
 
-[Oisey Bees](https://www.facebook.com/oiseybees/) on Facebook!
+[Oisey Bees on Faceboot](https://www.facebook.com/oiseybees/)
+
+[Buy a Bee Merry on Tindie](https://www.tindie.com/products/hamster/bee-merry-christmas-ornament/)
+
+# Solder Time
 
 Howdy!  Let's get started on building your ornament.
 
@@ -20,7 +24,7 @@ You should have:
 * A switch
 * Two AA batteries
 
-Heat up your iron and flip the PCB over.
+Heat up your iron and flip the PCB over.  I recommend a decent rosin core solder like a Kester 80/20 leaded solder.  You can use lead-free, though you might find it harder to flow the solder.
 
 ![Back](images/IMG_20181218_225105.jpg)
 
