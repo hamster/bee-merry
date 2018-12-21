@@ -2,6 +2,8 @@
 
 ![OiesyBees](images/OiseyBeesLogo.png)![Oiser](images/Oiser.jpg)
 
+[Oisey Bees](https://www.facebook.com/oiseybees/) on Facebook!
+
 Howdy!  Let's get started on building your ornament.
 
 First step, find and lay out all your parts.
