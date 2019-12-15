@@ -28,15 +28,19 @@ Heat up your iron and flip the PCB over.  I recommend a decent rosin core solder
 
 ![Back](images/IMG_20181218_225105.jpg)
 
-The copper pads are where we are going to solder things on.  The LEDs go in the wing cutout areas.  Note the 'All LEDs' mark on the lower left.
+The copper pads are where we are going to solder things on.  The LEDs go in the wing cutout areas.  **Note the 'All LEDs' mark on the lower left** - this shows which way the LEDs need to go.
 
 Take your iron and put down a decent blob on one pad on all the LEDs.  Tin one of the resistor pads with less solder.  Finally, put a little blob on the 3 pads on the left for the switch.
 
 ![Solder](images/IMG_20181218_225157.jpg)
 
+**Important Note** Pay attention to the orientation mark on the lower left of the board.  Some boards will not have the LEDs the same as what is pictured here.
+
 Now, find your LEDs and remove them from the strip.  Flip them over and find the green triangle on the back.  This triangle needs to face in the same direction as the 'All LEDs' triangle, as shown.
 
 ![Triangle](images/IMG_20181218_225256.jpg)
+
+**Important Note** Pay attention to the orientation mark on the lower left of the board.  Some boards will not have the LEDs the same as what is pictured here.
 
 While holding the LED in place, heat the blob of solder and pull the solder up on the LED to join it to the board.  Hold the LED and let it cool.  Solder on all the LEDs this way.  Do the same thing for the resistors, but they don't need to be upside down.
 
