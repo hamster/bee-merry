@@ -58,13 +58,11 @@ Now take the switch and fit the little plastic pegs into the holes in the PCB.  
 
 ![Switch](images/IMG_20181218_225827.jpg)
 
-Now, find the battery box and insert its legs into the + and - holes on the back.  Take some flush cutters and cut off the legs flush with the surface of the PCB.  It's OK if they are a little high - you can adjust them a little before you solder them down.
+Now, find the battery box.  Peel the backing off the double sided tissue tape, and stick to the battery box.  Then peel the other side, and apply firmly to the back of the ornament.  The top of the box should be about 1/4 inch below the two battery terminals at the top.
 
-![Battery Box](images/IMG_20181218_225911.jpg)
+Now apply a little solder to each of the two terminals on the ornament board above the battery box.  Cut the wires to about an inch long and strip off about 1/8 inch off the ends, or just coil up the wires if you're feeling lazy.  Tin the wires, and then use some tweezers to hold the wire into place and solder across the pad so that it does not stick through to the front.  Red goes to the left (the side with the switch) and black goes to the right.
 
-Apply some solder to one pad, and use your thumbnail to adjust the height of the battery box so that the pin is nearly flush.  Do the same for the other pin.  Add a little more solder to dome the connection so it's no longer pointy, unlike as shown in the next photo :)
-
-![Solder Box](images/IMG_20181218_230007.jpg)
+![Solder Box](images/IMG_20211212_231239.jpg)
 
 Find your Santa Hat and remove the backing.  Handle the sticker via the clear transfer tape.  Position it over the hat, and center it up.  Then press it down into place and smooth it out.
 
@@ -73,6 +71,8 @@ Finally, grab the edge of the transfer tape, and carefully pull it off.  This st
 ![Sticker](images/IMG_20181218_230118.jpg)
 
 And that's it, you're done!  Install the batteries and turn it on to make sure it's working, and then go hang it up!
+
+If some or all of the LEDs stay red instead of color cycling, make sure the batteries are installed right, that the battery box leads are on the right pads, and that the LEDs themselves are soldered on correctly.  A reverse-polarity LED will not color cycle, but it doesn't hurt it otherwise.
 
 ![Done](images/IMG_20181218_230136.jpg)
 ![Done back](images/IMG_20181218_230143.jpg)
